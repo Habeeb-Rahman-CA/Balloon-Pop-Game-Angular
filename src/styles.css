@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background: url(/unnamed.png);
+    background-position: cover;
+    background-repeat:space;
+}
